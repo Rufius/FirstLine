@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FirstLine.Task/1.0.0": {
+        "runtime": {
+          "FirstLine.Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstLine.Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
