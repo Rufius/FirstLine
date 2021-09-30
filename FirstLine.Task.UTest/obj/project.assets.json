@@ -4638,11 +4638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task.UTest\\FirstLine.Task.UTest.csproj",
+      "projectUniqueName": "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task.UTest\\FirstLine.Task.UTest.csproj",
       "projectName": "FirstLine.Task.UTest",
-      "projectPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task.UTest\\FirstLine.Task.UTest.csproj",
+      "projectPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task.UTest\\FirstLine.Task.UTest.csproj",
       "packagesPath": "C:\\Users\\r.abdurahmanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task.UTest\\obj\\",
+      "outputPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task.UTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4662,8 +4662,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task\\FirstLine.Task.csproj": {
-              "projectPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task\\FirstLine.Task.csproj"
+            "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task\\FirstLine.Task.csproj": {
+              "projectPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task\\FirstLine.Task.csproj"
             }
           }
         }

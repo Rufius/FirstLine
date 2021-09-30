@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task\\FirstLine.Task.csproj",
+      "projectUniqueName": "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task\\FirstLine.Task.csproj",
       "projectName": "FirstLine.Task",
-      "projectPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task\\FirstLine.Task.csproj",
+      "projectPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task\\FirstLine.Task.csproj",
       "packagesPath": "C:\\Users\\r.abdurahmanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task\\obj\\",
+      "outputPath": "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

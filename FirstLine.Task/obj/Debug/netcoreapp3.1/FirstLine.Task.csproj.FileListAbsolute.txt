@@ -6,3 +6,12 @@ C:\Users\r.abdurahmanov\source\repos\FirstLine.Task\FirstLine.Task\obj\Debug\net
 C:\Users\r.abdurahmanov\source\repos\FirstLine.Task\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.csproj.CoreCompileInputs.cache
 C:\Users\r.abdurahmanov\source\repos\FirstLine.Task\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.dll
 C:\Users\r.abdurahmanov\source\repos\FirstLine.Task\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.pdb
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\bin\Debug\netcoreapp3.1\FirstLine.Task.deps.json
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\bin\Debug\netcoreapp3.1\FirstLine.Task.dll
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\bin\Debug\netcoreapp3.1\FirstLine.Task.pdb
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.csproj.AssemblyReference.cache
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.AssemblyInfoInputs.cache
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.AssemblyInfo.cs
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.csproj.CoreCompileInputs.cache
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.dll
+C:\Users\r.abdurahmanov\source\repos\firstline\FirstLine.Task\obj\Debug\netcoreapp3.1\FirstLine.Task.pdb

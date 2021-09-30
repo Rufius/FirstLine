@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ps0FoKBZwyQngLicbzfujmPRWpf9elHtyC7Nu/J0l0DcLth02qhdrAlrvyQr1kHbR8WUxVxXz+pN5mZhJ+5PJA==",
+  "dgSpecHash": "UQsgQbuxBpgU0w7kgbPVAU6O5BOTio3gboWKAZWdm/U3UGhkrRJHywikqn97Aa0gWgZCg/KTp5f8YmMd5pvhhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\r.abdurahmanov\\source\\repos\\FirstLine.Task\\FirstLine.Task.UTest\\FirstLine.Task.UTest.csproj",
+  "projectFilePath": "C:\\Users\\r.abdurahmanov\\source\\repos\\firstline\\FirstLine.Task.UTest\\FirstLine.Task.UTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r.abdurahmanov\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\r.abdurahmanov\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
